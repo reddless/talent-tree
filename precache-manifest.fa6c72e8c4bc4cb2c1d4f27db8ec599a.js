@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "06961da001827aced89da157d5805947",
+    "revision": "c0353e2ddc01351d0a8ce17fad617bc7",
     "url": "/talent-tree/index.html"
   },
   {
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/talent-tree/static/js/3.95ff0e4e.chunk.js"
   },
   {
-    "revision": "d8a61ab6420b6cb12246",
-    "url": "/talent-tree/static/js/4.4596a7c3.chunk.js"
+    "revision": "3e5fb6bf5969bf94d3d4",
+    "url": "/talent-tree/static/js/4.5e09d9d0.chunk.js"
   },
   {
     "revision": "5726d0170d64d20d3c65",
@@ -64,8 +64,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/talent-tree/static/js/main.547d01f7.chunk.js"
   },
   {
-    "revision": "fe6c0b15bd45a4570d1d",
-    "url": "/talent-tree/static/js/runtime-main.7260e03e.js"
+    "revision": "aad2bced158b6df91cc7",
+    "url": "/talent-tree/static/js/runtime-main.5d9fb8c4.js"
   },
   {
     "revision": "68b29a926e1bebd38e63343d7305e18b",
